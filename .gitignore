@@ -1,0 +1,5 @@
+./hw
+
+.DS_Store:
+    @echo "Removing .DS_Store"
+    @rm .DS_Store
